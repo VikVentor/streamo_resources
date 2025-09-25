@@ -1,3 +1,7 @@
+/* By Ventoron 
+Youtube: Ventoron
+MakerWorld: Ventoron
+  */
 #include <BleKeyboard.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
